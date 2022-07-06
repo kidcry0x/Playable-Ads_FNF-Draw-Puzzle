@@ -8,11 +8,17 @@
 
 ## Demo Playable Ads
 
-- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V1/FNF_V1)
+- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V1/FNF_V1/)
 
-- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V2/FNF_V2)
+- [**Demo Playable Ads version 2_1**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V2/FNF_V2/FNFDrawNOPLAYFREE_FAIL/)
 
-- [**Demo Playable Ads version 3**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V2/FNF_V3)
+- [**Demo Playable Ads version 2_2**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V2/FNF_V2/FNFDrawNOPLAYFREE_WIN/)
+
+- [**Demo Playable Ads version 2_3**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V2/FNF_V2/FNFDrawPLAYFREE_FAIL/)
+
+- [**Demo Playable Ads version 2_4**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V2/FNF_V2/FNFDrawPLAYFREE_WIN/)
+
+- [**Demo Playable Ads version 3**](https://kidcry0x.github.io/Playable-Ads_FNF-Draw-Puzzle/Rescue_the_Lover_V2/FNF_V3/)
 
 ## Link Game
 
